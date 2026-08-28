@@ -1,14 +1,25 @@
-# 👋 Hi, I'm Yug Jindal !
+# Hey, I'm Yug
 
-# 💻 Tech Stack:
+I build AI systems that do real work: voice agents that hold a conversation, LLM agents wired into people's actual tools, and the full-stack products around them.
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+**Right now** I'm a Forward Deployed Engineer at [Hiregram](https://hiregram.ai), an AI mock interview platform where candidates talk to a live AI interviewer in the browser. I work across the stack: voice agent prompting, evaluation pipelines, analytics, and the testing infrastructure that keeps it all shippable.
 
-![](https://github-readme-stats.vercel.app/api?username=yugjindal22&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=yugjindal22&theme=dark&hide_border=false)<br/>
+## Things I've built
 
----
+- **[Aura](https://aura-for-all.vercel.app)**, an AI chief of staff you talk to through a real-time video avatar. It does authenticated work across Gmail, Calendar, GitHub, Notion, Linear and Slack, with a LangGraph agent behind an OpenAI-compatible streaming endpoint so no credential ever touches the avatar vendor.
+- **[Clarift](https://www.clarift.in)**, an hour-by-hour habit tracker that doesn't let you lie to yourself. Solo-built and shipped end to end: Google OAuth, PWA, Product Hunt launch, 717 unit tests and 153 Playwright end-to-end tests.
+- **[Bhoonidhi](https://github.com/yugjindal22/sih-2025)**, a multimodal Earth observation platform (upload Sentinel-2 archives, ask questions in plain language). Led a 6-person team to a national top-5 finish at an ISRO hackathon.
+- **[InboxAI](https://github.com/yugjindal22/InboxAI)**, an autonomous Gmail agent built on MCP and LangGraph that triages and replies to email through natural conversation.
+- **[CodeDock](https://code-dock.vercel.app)**, a full-stack app on Next.js and MongoDB, deployed with Docker on AWS ECS.
 
-[![](https://visitcount.itsvg.in/api?id=yugjindal22&icon=0&color=0)](https://visitcount.itsvg.in)
+Won Smart India Hackathon 2024 (UIDAI problem statement, 300,000+ participants): a browser-based identity authentication system that runs liveness-detection models client-side and cryptographically protects them from tampering.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## How I work
+
+Most of my projects ship with real test suites, CI gates, and monitoring. I care about the boring parts: auth, security, migrations, and the end-to-end tests that let you ship fast without breaking things.
+
+**Stack I reach for:** Python, FastAPI, LangGraph, TypeScript, Next.js, React, Supabase, PostgreSQL, MongoDB, Pipecat, Playwright, Docker, AWS, Vercel.
+
+Final-year CSE at JIIT Noida.
+
+📫 [yugjindal1234@gmail.com](mailto:yugjindal1234@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yug-jindal) · [Everything else](https://linktr.ee/yugjindal22)
