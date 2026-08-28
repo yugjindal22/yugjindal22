@@ -7,7 +7,7 @@ I build AI systems that do real work: voice agents that hold a conversation, LLM
 ## Things I've built
 
 - **[Aura](https://aura-for-all.vercel.app)**, an AI chief of staff you talk to through a real-time video avatar. It does authenticated work across Gmail, Calendar, GitHub, Notion, Linear and Slack, with a LangGraph agent behind an OpenAI-compatible streaming endpoint so no credential ever touches the avatar vendor.
-- **[Clarift](https://www.clarift.in)**, an hour-by-hour habit tracker that doesn't let you lie to yourself. Solo-built and shipped end to end: Google OAuth, PWA, Product Hunt launch, 717 unit tests and 153 Playwright end-to-end tests.
+- **[Clarift](https://www.clarift.in)**, an hour-by-hour habit tracker that doesn't let you lie to yourself. Solo-built and shipped end to end: Google OAuth, PWA, Product Hunt launch, 761 unit tests and 158 Playwright end-to-end tests.
 - **[Bhoonidhi](https://github.com/yugjindal22/sih-2025)**, a multimodal Earth observation platform (upload Sentinel-2 archives, ask questions in plain language). Led a 6-person team to a national top-5 finish at an ISRO hackathon.
 - **[InboxAI](https://github.com/yugjindal22/InboxAI)**, an autonomous Gmail agent built on MCP and LangGraph that triages and replies to email through natural conversation.
 - **[CodeDock](https://code-dock.vercel.app)**, a full-stack app on Next.js and MongoDB, deployed with Docker on AWS ECS.
