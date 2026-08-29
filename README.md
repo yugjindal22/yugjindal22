@@ -2,6 +2,8 @@
 
 I build AI systems that do real work: voice agents that hold a conversation, LLM agents wired into people's actual tools, and the full-stack products around them.
 
+My work, with demo videos and case studies: **[yugjindal.vercel.app](https://yugjindal.vercel.app)**
+
 **Right now** I'm a Forward Deployed Engineer at [Hiregram](https://hiregram.ai), an AI mock interview platform where candidates talk to a live AI interviewer in the browser. I work across the stack: voice agent prompting, evaluation pipelines, analytics, and the testing infrastructure that keeps it all shippable.
 
 ## Things I've built
@@ -22,4 +24,4 @@ Most of my projects ship with real test suites, CI gates, and monitoring. I care
 
 Final-year CSE at JIIT Noida.
 
-📫 [yugjindal1234@gmail.com](mailto:yugjindal1234@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yug-jindal) · [Everything else](https://linktr.ee/yugjindal22)
+📫 [yugjindal1234@gmail.com](mailto:yugjindal1234@gmail.com) · [Portfolio](https://yugjindal.vercel.app) · [LinkedIn](https://www.linkedin.com/in/yug-jindal) · [Everything else](https://linktr.ee/yugjindal22)
